@@ -1,1 +1,1 @@
-# SQL
+Data Exploration with SQL
